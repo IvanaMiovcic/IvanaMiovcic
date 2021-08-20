@@ -3,7 +3,7 @@
 
 I'm Ivana Miovcic! I'm currently studing Computer Science at Ryerson University. I started coding by making websites and before I knew it I was hooked on programming. I love making beautifully designed websites and apps.
 
-![Image of Cat Typing] (https://github.com/IvanaMiovcic/IvanaMiovcic/typing-cat.gif)
+![Image of Cat Typing] (https://github.com/IvanaMiovcic/IvanaMiovcic/blob/main/typing-cat.gif)
 
 
 Reach me at: 

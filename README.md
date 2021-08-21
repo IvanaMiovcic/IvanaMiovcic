@@ -2,11 +2,8 @@
 
 <img src="https://github.com/IvanaMiovcic/IvanaMiovcic/blob/main/typing-cat.gif?raw=true" align="right"> 
 <p align="left">
-I'm Ivana Miovcic! I'm currently studing Computer Science at Ryerson University. 
-I started coding by making websites and before I knew it I was hooked on programming. 
-I love making beautifully designed websites and apps. When I'm not coding, I can be found playing games, 
-drawing, and hanging out with my cat, Oliver 🐱
-  
+I'm Ivana Miovcic! I'm a first year Computer Science student at Ryerson University 🎓 in Toronto, Canada. 
+I’m passionate about technology and building innovative things using coding. My goal is to become a full-stack developer after finishing university. I’m currently improving my web development projects 🌐 and learning Python programming 🐍 . When I’m not coding, I like drawing, playing video games, and hanging out with my cat 🐱.  
 </p>  
 
 <br>
@@ -55,7 +52,8 @@ LinkedIn:-->
 <img src="https://github.com/IvanaMiovcic/IvanaMiovcic/blob/main/Node.js_logo.png" height="90px" width="auto"> &nbsp;&nbsp;&nbsp;&nbsp;  
 </p> 
 
-## Currently Working On 🌱
+## GitHub Stats
 
-- Learning python programming 🐍
-- Making my personal website ✨
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanaMiovcic&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanaMiovcic)](https://github.com/anuraghazra/github-readme-stats)
+
+
